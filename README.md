@@ -38,7 +38,7 @@
 ### 3. Verify if App can be desplayed in browser. This is done using Public IP ( 54.175.51.243) in this case  
 ![image](https://user-images.githubusercontent.com/96470430/213066677-e021f5fd-1a87-4aed-aec6-be25ea792b28.png)
 
-## App is up and runnig!!!!!!
+## App is up and running!!!!!!
 ![image](https://user-images.githubusercontent.com/96470430/213066914-ebc9dbbb-5a4e-43cc-9343-0fcd1f41a180.png)
 
 
